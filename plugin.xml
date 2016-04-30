@@ -99,7 +99,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <framework src="CoreLocation.framework" />
 
         <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
-            <string></string>
+            <string>Разрешить доступ к Вашему местоположению?</string>
         </config-file>
 
     </platform>
